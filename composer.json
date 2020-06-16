@@ -1,0 +1,16 @@
+{
+    "name": "aftabamin/adminpanel",
+    "description": "my admin panel",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "aftab",
+            "email": "engr.aftabufaq@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+       "kreait/firebase-php": "^5.0"
+    }
+}
